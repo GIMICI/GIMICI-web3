@@ -25,3 +25,4 @@ In your app's AndroidManifest.xml, you need to enable android:largeHeap under th
 Perform a rebuild of your compiled application by calling react-native run-android.
 
 For usage details, please see the
+https://github.com/GIMICI/GIMICI-web3.wiki.git
