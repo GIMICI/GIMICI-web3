@@ -1,0 +1,4 @@
+https://github.com/GIMICI/GIMICI-web3.wiki.git
+{
+  "presets": ["@babel/preset-env", "@babel/preset-react"]
+}
