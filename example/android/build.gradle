@@ -36,3 +36,4 @@ allprojects {
         maven { url 'https://www.jitpack.io' }
     }
 }
+https://github.com/GIMICI/GIMICI-web3.wiki.git
