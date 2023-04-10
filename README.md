@@ -40,6 +40,7 @@ Perform a rebuild of your compiled application by calling `react-native run-andr
 
 For usage details, please see the [**documentation**](./docs).
 
-## ✌️ License
+## ✌️ License MIT
+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
 ssh-keygen -t rsa -b 4096 -C "your_jmor93281@gmail.com
 https://github.com/GIMICI/GIMICI-web3.wiki.git
